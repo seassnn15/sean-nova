@@ -1,4 +1,4 @@
-<h1>Hi, I'm Seam! <br/><a >NC 2 Holder</a>, <a > ICT Representative </a>, <a >CSS Representative </a></h1>
+<h1>Hi, I'm Sean! <br/><a >NC 2 Holder</a>, <a > ICT Representative </a>, <a >CSS Representative </a></h1>
 
 <h2>👨‍💻 𐌔Ꝋ𐌂𐌉𐌀𐌋𐌔 Projects:</h2>
 
